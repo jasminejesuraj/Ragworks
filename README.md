@@ -34,8 +34,8 @@ Download Project Files: Download and extract the project files from this reposit
 
 Environment Setup: Navigate to the project directory and create a Python virtual environment to manage dependencies.
 python -m venv venv
-# On Windows: venv\Scripts\activate
-# On macOS/Linux: source venv/bin/activate
+ On Windows: venv\Scripts\activate
+ On macOS/Linux: source venv/bin/activate
 
 Dependency Installation: Install all required libraries.
 pip install streamlit python-dotenv google-generativeai pypdf "passlib[bcrypt]<1.8.0,>=1.7.4"
