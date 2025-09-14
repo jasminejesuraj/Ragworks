@@ -17,19 +17,19 @@ Project Documentation
 3. Technical Stack
 
  Component	Technology	Purpose
- #Backend	Python 3.8+ :
+ Backend	Python 3.8+ :
  Core application logic, API communication, and data processing.
  
- #Frontend:
+ Frontend:
  Streamlit	Provides the web-based, interactive user interface.
  
- #AI Model:
+ AI Model:
  Google Gemini API	Powers the generative AI and RAG capabilities.
  
- #Database:
+ Database:
  SQLite3	A lightweight, file-based database for user and chat data.
  
- #Security:
+ Security:
  passlib (bcrypt)	Secure password hashing and verification.
 
 4. Usage & Local Deployment
